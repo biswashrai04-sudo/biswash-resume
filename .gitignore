@@ -1,0 +1,12 @@
+# Temp files
+*.py
+*.html.bak
+index_new.html
+~$*
+v2.html
+light.html
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
